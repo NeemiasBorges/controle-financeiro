@@ -1,3 +1,3 @@
 # controle-financeiro
 
-Projeto desenvolvido em aula, utilizando java com Spring Boot.
+[ITP-IFSP] Projeto desenvolvido em aula, utilizando java com Spring Boot.
