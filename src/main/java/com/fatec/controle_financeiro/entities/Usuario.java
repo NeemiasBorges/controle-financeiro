@@ -1,11 +1,11 @@
 package com.fatec.controle_financeiro.entities;
 
-public class User {
+public class Usuario {
     private String name;
     private int age;
 
     // Construtor padrão
-    public User() {
+    public Usuario() {
     }
 
     // Getters e Setters
